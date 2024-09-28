@@ -1,0 +1,3358 @@
+weekNumber: 29
+rule:
+  - code: openapi-external-docs-error
+    message: External Docs
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-allof-info
+    message: Parameter Schema AllOf
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-maximum-warn
+    message: Parameter Schema Type Integer Maximum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-integer-minimum-warn
+    message: Parameter Schema Type Integer Minimum
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-info
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-info
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-tags-object-error
+    message: Tag Object
+  - code: openapi-info-contact-error
+    message: Contact Object
+  - code: openapi-info-license-error
+    message: License Object
+  - code: openapi-info-terms-of-service-error
+    message: Terms of Service
+  - code: openapi-info-title-info
+    message: Info Title
+  - code: openapi-info-title-upper-case-info
+    message: Info Title Upper Case
+  - code: openapi-info-description-info
+    message: Info Description
+  - code: openapi-info-version-info
+    message: Info Version
+  - code: openapi-version-date-info
+    message: Date Versioning
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheOperations_List.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheCheckNameAvailability.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheListUpgradeNotifications.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-query-names-camel-case-error
+    message: Parameter Query Name Camel Case
+  - code: openapi-parameters-query-names-snake-case-error
+    message: Parameter Query Name Snake Case
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-put-error-info
+    message: Request Body PUT
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheCreate.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-put-204-status-code-error
+    message: PUT 204 Status Code
+  - code: openapi-response-put-400-status-code-warn
+    message: 400 Status Code for PUT Responses
+  - code: openapi-response-put-404-status-code-warn
+    message: 404 Status Code for PUT Responses
+  - code: openapi-response-put-500-status-code-error
+    message: 500 Status Code for PUT Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheUpdate.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-delete-info
+    message: DELETE Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheDelete.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-delete-400-status-code-warn
+    message: 400 Status Code for DELETE Responses
+  - code: openapi-response-delete-404-status-code-error
+    message: 404 Status Code for DELETE Responses
+  - code: openapi-response-delete-500-status-code-error
+    message: 500 Status Code for DELETE Responses
+  - code: openapi-response-delete-204-status-code-info
+    message: DELETE 204 Status Code
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheGet.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheListByResourceGroup.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheList.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheListKeys.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheRegenerateKey.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheForceReboot.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheImport.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-post-error
+    message: Request Body POST
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: 'ENOENT: no such file or directory, open ''./examples/RedisCacheExport.json'''
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-post-201-status-code-error
+    message: POST 201 Status Code
+  - code: openapi-response-post-400-status-code-warn
+    message: 400 Status Code for POST Responses
+  - code: openapi-response-post-404-status-code-warn
+    message: 404 Status Code for POST Responses
+  - code: openapi-response-post-500-status-code-error
+    message: 500 Status Code for POST Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheFirewallRulesList.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-put-error-info
+    message: Request Body PUT
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheFirewallRuleCreate.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-put-204-status-code-error
+    message: PUT 204 Status Code
+  - code: openapi-response-put-400-status-code-warn
+    message: 400 Status Code for PUT Responses
+  - code: openapi-response-put-404-status-code-warn
+    message: 404 Status Code for PUT Responses
+  - code: openapi-response-put-500-status-code-error
+    message: 500 Status Code for PUT Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheFirewallRuleGet.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-delete-info
+    message: DELETE Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheFirewallRuleDelete.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-delete-400-status-code-warn
+    message: 400 Status Code for DELETE Responses
+  - code: openapi-response-delete-404-status-code-error
+    message: 404 Status Code for DELETE Responses
+  - code: openapi-response-delete-500-status-code-error
+    message: 500 Status Code for DELETE Responses
+  - code: openapi-response-delete-204-status-code-info
+    message: DELETE 204 Status Code
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCachePatchSchedulesList.json'
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-put-error-info
+    message: Request Body PUT
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCachePatchSchedulesCreateOrUpdate.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-enum-info
+    message: Parameter Enum
+  - code: openapi-parameters-enum-casing-info
+    message: Parameter Enum Upper Snake Case
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-put-204-status-code-error
+    message: PUT 204 Status Code
+  - code: openapi-response-put-400-status-code-warn
+    message: 400 Status Code for PUT Responses
+  - code: openapi-response-put-404-status-code-warn
+    message: 404 Status Code for PUT Responses
+  - code: openapi-response-put-500-status-code-error
+    message: 500 Status Code for PUT Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-delete-info
+    message: DELETE Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCachePatchSchedulesDelete.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-enum-info
+    message: Parameter Enum
+  - code: openapi-parameters-enum-casing-info
+    message: Parameter Enum Upper Snake Case
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-delete-400-status-code-warn
+    message: 400 Status Code for DELETE Responses
+  - code: openapi-response-delete-404-status-code-error
+    message: 404 Status Code for DELETE Responses
+  - code: openapi-response-delete-500-status-code-error
+    message: 500 Status Code for DELETE Responses
+  - code: openapi-response-delete-204-status-code-info
+    message: DELETE 204 Status Code
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCachePatchSchedulesGet.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-enum-info
+    message: Parameter Enum
+  - code: openapi-parameters-enum-casing-info
+    message: Parameter Enum Upper Snake Case
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-request-body-on-put-error-info
+    message: Request Body PUT
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheLinkedServer_Create.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-schema-info
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-put-204-status-code-error
+    message: PUT 204 Status Code
+  - code: openapi-response-put-400-status-code-warn
+    message: 400 Status Code for PUT Responses
+  - code: openapi-response-put-404-status-code-warn
+    message: 404 Status Code for PUT Responses
+  - code: openapi-response-put-500-status-code-error
+    message: 500 Status Code for PUT Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-delete-info
+    message: DELETE Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheLinkedServer_Delete.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-delete-204-status-code-error
+    message: DELETE 204 Status Code
+  - code: openapi-response-delete-400-status-code-warn
+    message: 400 Status Code for DELETE Responses
+  - code: openapi-response-delete-404-status-code-error
+    message: 404 Status Code for DELETE Responses
+  - code: openapi-response-delete-500-status-code-error
+    message: 500 Status Code for DELETE Responses
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheLinkedServer_Get.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-no-api-in-path-error
+    message: No API in Path
+  - code: openapi-no-path-trailing-slash-info
+    message: Path Trailing Slash
+  - code: openapi-path-description-warn
+    message: Path Description
+  - code: openapi-version-in-path-info
+    message: Version in Path
+  - code: openapi-no-request-body-on-get-info
+    message: GET Request Body
+  - code: openapi-operation-security-definitions-error
+    message: Operation Security Definition
+  - code: openapi-operations-tags-info
+    message: Operation Tags
+  - code: openapi-operations-operation-ids-camel-case-error
+    message: Operation ID Camel Case
+  - code: openapi-operations-operation-ids-info
+    message: Operation ID.
+  - code: invalid-ref
+    message: >-
+      ENOENT: no such file or directory, open
+      './examples/RedisCacheLinkedServer_List.json'
+  - code: openapi-operations-description-info
+    message: Operation Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-path-names-snake-case-error
+    message: Parameter Path Name Snake Case
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-name-info
+    message: Parameter Name
+  - code: openapi-parameters-in-info
+    message: Parameters In
+  - code: openapi-parameters-required-error
+    message: Parameters MUST have a required property.
+  - code: openapi-parameters-description-info
+    message: Parameter Description
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-parameters-schema-error
+    message: Parameter Schema Type
+  - code: openapi-parameters-schema-type-string-maxlength-warn
+    message: Parameter Schema Type String MaxLength
+  - code: openapi-parameters-schema-type-string-minlength-warn
+    message: Parameter Schema Type String MinLength
+  - code: openapi-parameters-schema-type-string-pattern-warn
+    message: Parameter Schema Type String Pattern
+  - code: openapi-response-get-400-status-code-warn
+    message: 400 Status Code for GET Responses
+  - code: openapi-response-get-404-status-code-warn
+    message: 404 Status Code for GET Responses
+  - code: openapi-response-get-500-status-code-error
+    message: 500 Status Code for GET Responses
+  - code: openapi-response-get-200-content-error
+    message: GET Content
+  - code: openapi-response-get-200-status-code-info
+    message: GET Response Has 200 Status Code
+  - code: openapi-responses-examples-error
+    message: Schema COULD have an example.
+  - code: openapi-operations-summary-info
+    message: Operation Summary
+  - code: openapi-operations-summary-length-error
+    message: Operation Summary Length
+  - code: openapi-operations-summary-period-none-info
+    message: Operation Summary Period
+  - code: openapi-security-schemes-error
+    message: Security Scheme
